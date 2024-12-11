@@ -1,4 +1,4 @@
-# SQAandT
+# Software Testing & Quality Assurance
 This repository contains tests and testing configurations for the project of the course Software Testing and Quality Assurance.
 This is not an original implementation but rather a testing environment created specifically to practice and apply concepts from Software Testing: A Craftsman's Approach by Paul C. Jorgensen. The code in this repository is adapted for testing purposes only and is intended for personal, educational use.
 
